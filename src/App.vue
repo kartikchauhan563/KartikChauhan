@@ -34,13 +34,17 @@
         </v-card-text>
 
         <v-card-text class="white--text pt-0">
-          Experienced WordPress Developer and Front End Developer with a demonstrated history of working in Information Technology. Skilled in Special Purpose Web-Development, FrontEnd Development, Android Development,Manual Testing, C,& Java.
+          Experienced WordPress Developer and Front End Developer with a
+          demonstrated history of working in Information Technology. Skilled in
+          Special Purpose Web-Development, FrontEnd Development, Android
+          Development,Manual Testing, C,& Java.
         </v-card-text>
 
         <v-divider></v-divider>
 
         <v-card-text class="white--text">
-          {{ new Date().getFullYear() }} — <strong>Designed By Kartik Chauhan</strong>
+          {{ new Date().getFullYear() }} —
+          <strong>Designed By Kartik Chauhan</strong>
         </v-card-text>
       </v-card>
     </v-footer>
