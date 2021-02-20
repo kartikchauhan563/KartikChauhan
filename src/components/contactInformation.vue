@@ -132,4 +132,10 @@ export default {};
   background: -o-linear-gradient(left, #ff6a5b 0%, #ff4d7e 100%);
   background: linear-gradient(to right, #ff6a5b 0%, #ff4d7e 100%);
 }
+.card-body {
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  min-height: 1px;
+  padding: 0.25rem;
+}
 </style>

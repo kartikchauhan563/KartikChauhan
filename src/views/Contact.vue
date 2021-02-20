@@ -9,7 +9,7 @@ import Contact from "@/components/contactInformation.vue";
 export default {
   name: "contact",
   components: {
-    Contact,
+    Contact
   }
 };
 </script>

@@ -21,7 +21,7 @@
               >Download Resume</a
             >
           </div>
-          <div class="col-lg-6 d-none d-lg-block">
+          <div class="col-lg-6  d-lg-block">
             <img
               src="https://res.cloudinary.com/mhmd/image/upload/v1556834136/illus_kftyh4.png"
               alt=""
@@ -38,22 +38,4 @@
 export default {};
 </script>
 
-<style scoped>
-.hero-image {
-  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-  background-image: linear-gradient(
-      rgba(108, 41, 41, 0.5),
-      rgba(79, 28, 28, 0.5)
-    ),
-    url("../assets/heroimage.jpg");
-
-  /* Set a specific height */
-  height: 80%;
-
-  /* Position and center the image to scale nicely on all screens */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-}
-</style>
+<style scoped></style>
