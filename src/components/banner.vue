@@ -1,29 +1,30 @@
 <template>
-  <div class="banner">
-    <v-banner>
-      <div
-        class="hero-image position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light"
-      >
-        <div class="col-md-5 p-lg-5 mx-auto my-5">
-          <h1 class="text-white display-4 fw-normal">Kartik Chauhan</h1>
-          <p class="text-white bold lead fw-normal">
-            <strong>
+  <div>
+    <div class="bg-light">
+      <div class="container py-5">
+        <div class="row h-100 align-items-center py-5">
+          <div class="col-lg-6">
+            <h1 class="display-4">Kartik Chauhan</h1>
+            <p class="lead text-muted mb-0">
+              Create a minimal about us page using Bootstrap 4.
+            </p>
+            <p class="lead text-muted">
               Experienced WordPress Developer and Front End Developer with a
               demonstrated history of working in Information Technology. Skilled
               in Special Purpose Web-Development, FrontEnd Development, Android
-              Development,Manual Testing, C,& Java.</strong
-            >
-          </p>
-          <a class="text-white btn btn-outline-secondary" href="#"
-            >Download Resume</a
-          >
+              Development,Manual Testing, C,& Java.
+            </p>
+          </div>
+          <div class="col-lg-6 d-none d-lg-block">
+            <img
+              src="https://res.cloudinary.com/mhmd/image/upload/v1556834136/illus_kftyh4.png"
+              alt=""
+              class="img-fluid"
+            />
+          </div>
         </div>
-        <div class="product-device shadow-sm d-none d-md-block"></div>
-        <div
-          class="product-device product-device-2 shadow-sm d-none d-md-block"
-        ></div>
       </div>
-    </v-banner>
+    </div>
   </div>
 </template>
 
@@ -31,7 +32,7 @@
 export default {};
 </script>
 
-<style>
+<style scoped>
 .hero-image {
   /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
   background-image: linear-gradient(
