@@ -3,8 +3,9 @@
     <div class="how-section1">
       <div class="row">
         <div class="col-md-6 how-img">
+          
           <img
-            src="https://image.ibb.co/dDW27U/Work_Section2_freelance_img1.png"
+            :src="require('../assets/kartikchauhandp.jpg')"
             class="rounded-circle img-fluid"
             alt=""
           />
@@ -44,7 +45,7 @@
         </div>
         <div class="col-md-6 how-img">
           <img
-            src="https://image.ibb.co/cHgKnU/Work_Section2_freelance_img2.png"
+            :src="require('../assets/aboutus.png')"
             class="rounded-circle img-fluid"
             alt=""
           />
@@ -79,6 +80,7 @@ export default {};
   text-align: center;
 }
 .how-img img {
-  width: 40%;
+  width: 250px;
+  height: 267px;
 }
 </style>

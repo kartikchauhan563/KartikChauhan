@@ -5,15 +5,21 @@
         <div class="row h-100 align-items-center py-5">
           <div class="col-lg-6">
             <h1 class="display-4">Kartik Chauhan</h1>
-            <p class="lead text-muted mb-0">
+            <!-- <p class="lead text-muted mb-0">
               Create a minimal about us page using Bootstrap 4.
-            </p>
+            </p> -->
             <p class="lead text-muted">
               Experienced WordPress Developer and Front End Developer with a
               demonstrated history of working in Information Technology. Skilled
               in Special Purpose Web-Development, FrontEnd Development, Android
               Development,Manual Testing, C,& Java.
             </p>
+            <a
+              href="https://drive.google.com/file/d/1nARQsGUUaDKHpBHz7MOv6ALWlkSnshYQ/view?usp=sharing"
+              type="button"
+              class="btn btn-outline-primary"
+              >Download Resume</a
+            >
           </div>
           <div class="col-lg-6 d-none d-lg-block">
             <img

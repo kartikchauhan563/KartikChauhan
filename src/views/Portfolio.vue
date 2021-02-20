@@ -5,7 +5,7 @@
         <v-card class="pa-2 " outlined tile>
           <v-card class="mx-auto" max-width="344">
             <v-img
-              :src= "require('../assets/advanchar.png')"
+              :src="require('../assets/advanchar.png')"
               height="200px"
             ></v-img>
 
@@ -23,7 +23,11 @@
             </v-card-subtitle>
 
             <v-card-actions>
-              <v-btn href="https://www.advenchar.com" color="orange lighten-2" text>
+              <v-btn
+                href="https://www.advenchar.com"
+                color="orange lighten-2"
+                text
+              >
                 Visit Website
               </v-btn>
 
@@ -34,9 +38,9 @@
       </v-col>
       <v-col>
         <v-card class="pa-2 " outlined tile>
-          <v-card class="mx-auto" max-width="344">
+          <v-card class="mx-auto" max-width="344" min-height="467">
             <v-img
-              :src= "require('../assets/rngfurnitures.png')"
+              :src="require('../assets/rngfurnitures.png')"
               height="200px"
             ></v-img>
 
@@ -52,7 +56,11 @@
             </v-card-subtitle>
 
             <v-card-actions>
-              <v-btn href="https://rngfurnitures.com/" color="orange lighten-2" text>
+              <v-btn
+                href="https://rngfurnitures.com/"
+                color="orange lighten-2"
+                text
+              >
                 Visit Website
               </v-btn>
 
@@ -62,10 +70,10 @@
         </v-card>
       </v-col>
       <v-col order="first">
-        <v-card class="pa-2 " outlined tile>
-          <v-card class="mx-auto" max-width="344">
+        <v-card class="pa-5" outlined tile>
+          <v-card class="mx-auto" max-width="344" min-height="467">
             <v-img
-              :src= "require('../assets/onesmarterhealthweb.png')"
+              :src="require('../assets/onesmarterhealthweb.png')"
               height="200px"
             ></v-img>
 
@@ -80,7 +88,11 @@
             </v-card-subtitle>
 
             <v-card-actions>
-              <v-btn href="https://www.onesmarterhealthweb.com" color="orange lighten-2" text>
+              <v-btn
+                href="https://www.onesmarterhealthweb.com"
+                color="orange lighten-2"
+                text
+              >
                 Visit Website
               </v-btn>
 
