@@ -133,7 +133,7 @@
           <li><a href="/portfolio">Portfolio</a></li>
         </ul> -->
         <p class="text-center">
-          Copyright @2021 | Designed With by <a href="#">KARTIK CHAUHAN</a>
+          Copyright @2021 | Designed by <a href="#">KARTIK CHAUHAN</a>
         </p>
 
         <ul class="social_footer_ul">
