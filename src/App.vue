@@ -15,6 +15,9 @@
       <v-btn>
         <router-link to="/portfolio">Portfolio</router-link>
       </v-btn>
+      <v-btn>
+        <a href="https://fetchnews.herokuapp.com/">Fetch News App</a>
+      </v-btn>
     </v-bottom-navigation>
 
     <router-view />
