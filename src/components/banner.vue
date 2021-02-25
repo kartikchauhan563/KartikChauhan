@@ -15,7 +15,7 @@
               Development,Manual Testing, C,& Java.
             </p>
             <a
-              href="https://drive.google.com/file/d/1nARQsGUUaDKHpBHz7MOv6ALWlkSnshYQ/view?usp=sharing"
+              href="https://drive.google.com/file/d/1AlEDd708y3YZpXsL_bSI5IPWQr93kS7Y/view?usp=sharing"
               type="button"
               class="btn btn-outline-primary"
               >Download Resume</a
